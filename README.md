@@ -1,5 +1,5 @@
 ## Phone Detection
-Using YOLOv3 to do phone center coordinates detection.
+Using YOLOv3 to do phone center coordinates detection. Tried the regression approach to solve the problem too(see 'find_phone_regression.py' file). The results with solving complex image data like this is substandard because it cannot learn the features.
 
 ### Getting Started
 
